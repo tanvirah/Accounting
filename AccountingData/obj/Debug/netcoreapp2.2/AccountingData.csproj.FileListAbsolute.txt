@@ -1,0 +1,11 @@
+C:\DOTNET3\Accounting\AccountingData\obj\Debug\netcoreapp2.2\AccountingData.csprojAssemblyReference.cache
+C:\DOTNET3\Accounting\AccountingData\obj\Debug\netcoreapp2.2\AccountingData.csproj.CoreCompileInputs.cache
+C:\DOTNET3\Accounting\AccountingData\obj\Debug\netcoreapp2.2\AccountingData.AssemblyInfoInputs.cache
+C:\DOTNET3\Accounting\AccountingData\obj\Debug\netcoreapp2.2\AccountingData.AssemblyInfo.cs
+C:\DOTNET3\Accounting\AccountingData\bin\Debug\netcoreapp2.2\AccountingData.deps.json
+C:\DOTNET3\Accounting\AccountingData\bin\Debug\netcoreapp2.2\AccountingData.dll
+C:\DOTNET3\Accounting\AccountingData\bin\Debug\netcoreapp2.2\AccountingData.pdb
+C:\DOTNET3\Accounting\AccountingData\obj\Debug\netcoreapp2.2\AccountingData.dll
+C:\DOTNET3\Accounting\AccountingData\obj\Debug\netcoreapp2.2\AccountingData.pdb
+C:\DOTNET3\Accounting\AccountingData\bin\Debug\netcoreapp2.2\AccountingData.runtimeconfig.json
+C:\DOTNET3\Accounting\AccountingData\bin\Debug\netcoreapp2.2\AccountingData.runtimeconfig.dev.json

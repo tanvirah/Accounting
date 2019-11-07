@@ -1,0 +1,12 @@
+C:\DOTNET3\Accounting\AccountingServices\obj\Debug\netcoreapp2.2\AccountingServices.csprojAssemblyReference.cache
+C:\DOTNET3\Accounting\AccountingServices\obj\Debug\netcoreapp2.2\AccountingServices.csproj.CoreCompileInputs.cache
+C:\DOTNET3\Accounting\AccountingServices\obj\Debug\netcoreapp2.2\AccountingServices.AssemblyInfoInputs.cache
+C:\DOTNET3\Accounting\AccountingServices\obj\Debug\netcoreapp2.2\AccountingServices.AssemblyInfo.cs
+C:\DOTNET3\Accounting\AccountingServices\bin\Debug\netcoreapp2.2\AccountingServices.deps.json
+C:\DOTNET3\Accounting\AccountingServices\bin\Debug\netcoreapp2.2\AccountingServices.dll
+C:\DOTNET3\Accounting\AccountingServices\bin\Debug\netcoreapp2.2\AccountingServices.pdb
+C:\DOTNET3\Accounting\AccountingServices\bin\Debug\netcoreapp2.2\AccountingData.dll
+C:\DOTNET3\Accounting\AccountingServices\bin\Debug\netcoreapp2.2\AccountingData.pdb
+C:\DOTNET3\Accounting\AccountingServices\obj\Debug\netcoreapp2.2\AccountingServices.csproj.CopyComplete
+C:\DOTNET3\Accounting\AccountingServices\obj\Debug\netcoreapp2.2\AccountingServices.dll
+C:\DOTNET3\Accounting\AccountingServices\obj\Debug\netcoreapp2.2\AccountingServices.pdb
